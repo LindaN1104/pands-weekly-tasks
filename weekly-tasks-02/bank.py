@@ -18,6 +18,7 @@ def format_money(amount_in_cents):
 # line 11 calculates how many euros in the amount inputed
 # line 12 calculates the remaining cents
 # line 13 makes sure the cents given are always to two decimal places
+# the € in line 13 tells the computer to use €, if replaced by £ then the amount will be in pounds
 # Note to self, insert note about using integers and not floating numbers,
 # as those don't round properly
 
