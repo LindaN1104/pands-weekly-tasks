@@ -1,10 +1,11 @@
+# Weekly Task 03 - Part of coursework for ATU 24-25: 4122 -- PROGRAMMING AND SCRIPTING
+# Author Linda Nikolajeva
+
 # Programme that prompts the user 
 # And read in two money amounts (in cent)
 # Then adds the two amounts
 # Then prints out the answer in a human readable format 
 # With a euro sign and decimal point between the euro and cent of the amount 
-# Author Linda Nikolajeva
-# Part of coursework for ATU 24-25: 4122 -- PROGRAMMING AND SCRIPTING
 
 # lines 10 to 23 were adapted from from a programme suggested by ChatGPT
 def format_money(amount_in_cents):
