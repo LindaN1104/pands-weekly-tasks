@@ -5,6 +5,13 @@
 # Per guidelines there is no user input
 # In addition, it is not required to list what day of the week it is
 # Only if it is a weekday or the weekend
+'''
+ I this case I assume that:
+    Weekdays are Monday to Friday, and the weekend is Saturday and Sunday
+    Public holidays, e.g. bank holidays, are not considered part of the weekend
+    The time and date on the machine used, i.e. your laptop/desktop, is correct
+    https://chatgpt.com/c/67d6007c-54ac-8005-87e5-723b19e46344
+ '''
 
 from datetime import date
 # datetime is a module built into python, it allows me (us) to work with dates and times
